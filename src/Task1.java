@@ -13,6 +13,5 @@ public class Task1 {
             builder.append(strToArray[i]);
         }
         System.out.println(builder);
-
     }
 }

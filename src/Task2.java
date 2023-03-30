@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -10,11 +8,8 @@ public class Task2 {
     public static void main(String[] args) {
         String value = "Никогда не ошибается тот, кто ничего не делает";
         char[] charArray = value.toCharArray();
-
-
-
-
-
-        List<char[]> chars = List.of(value.toCharArray());
+        for (int i = charArray.length - 1; i >= 0; i--) {
+            System.out.print(charArray[i]);
+        }
     }
 }

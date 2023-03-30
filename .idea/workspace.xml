@@ -5,30 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c670455-33f1-4066-88ec-1de7e941445c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamApi/Task13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamApi/Task14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamApi/Task15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamApi/Task16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamApi/Task17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-on-lab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/streamApi/Task14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streamApi/Task14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,17 +43,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/kitty/IdeaProjects/AstonProject/abanking"
+    "last_opened_file_path": "/home/kitty/IdeaProjects/AstonProject/task-on-lab"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "module"
+    ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task12">
-    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task10" />
-      <module name="task-on-lab" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task2">
     <configuration name="Task12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task12" />
       <module name="task-on-lab" />
@@ -77,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streamApi.Task13" />
+    <configuration name="Task14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamApi.Task14" />
       <module name="task-on-lab" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task7" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2" />
+      <module name="task-on-lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task3" />
       <module name="task-on-lab" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task12" />
-        <item itemvalue="Application.Task13" />
-        <item itemvalue="Application.Task7" />
-        <item itemvalue="Application.Task10" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task14" />
         <item itemvalue="Application.Task8" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task12" />
       </list>
     </recent_temporary>
   </component>
